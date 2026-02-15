@@ -1,0 +1,7 @@
+{
+  "name": "Manikgad Cbse classes Buldana",
+  "description": "A comprehensive school management platform featuring student tracking, attendance, grade management, and Gemini-powered AI tools for lesson planning and performance analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
